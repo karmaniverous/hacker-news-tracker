@@ -6,8 +6,8 @@
 
 ---
 
-👇 **Tracks the rank and other metrics of an Hacker News item over time!** 👇
+👇 **Tracks the rank and other metrics of an [Hacker News](https://news.ycombinator.com/news) item over time!** 👇
 
 # hacker-news-tracker
 
-One of the best parts of having an article trending on Hacker News is watching it move around the front page. It would be cool to have a real-time graph showing how the trend develops over time!
+One of the best parts of having an article trending on [Hacker News](https://news.ycombinator.com/news) is watching it move around the front page. It would be cool to have a real-time graph showing how the trend develops over time!
