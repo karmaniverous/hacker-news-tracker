@@ -1,6 +1,6 @@
 > **JUST TESTING AN IDEA!**
 >
-> Want to kick it around with me? [Start a discussion!](https://github.com/karmaniverous/number-one-fan/discussions)
+> Want to kick it around with me? [Start a discussion!](https://github.com/karmaniverous/hacker-news-tracker/discussions)
 >
 > Think I should build it? **STAR THE REPO!**
 
